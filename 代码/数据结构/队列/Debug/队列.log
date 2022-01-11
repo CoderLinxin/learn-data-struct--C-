@@ -1,0 +1,12 @@
+﻿  链队.c
+d:\学习demo\数据结构\代码\数据结构\队列\链队.c(69): warning C4033: “IniteListQueue”必须返回值
+d:\学习demo\数据结构\代码\数据结构\队列\链队.c(90): warning C4098: “TraverListQueue”:“void”函数返回值
+d:\学习demo\数据结构\代码\数据结构\队列\链队.c(132): warning C4028: 形参 1 与声明不同
+d:\学习demo\数据结构\代码\数据结构\队列\链队.c(138): warning C4098: “EnListQueue”:“void”函数返回值
+d:\学习demo\数据结构\代码\数据结构\队列\链队.c(159): warning C4028: 形参 1 与声明不同
+d:\学习demo\数据结构\代码\数据结构\队列\链队.c(165): warning C4098: “DeListQueue”:“void”函数返回值
+d:\学习demo\数据结构\代码\数据结构\队列\链队.c(189): warning C4028: 形参 1 与声明不同
+d:\学习demo\数据结构\代码\数据结构\队列\链队.c(214): warning C4028: 形参 1 与声明不同
+d:\学习demo\数据结构\代码\数据结构\队列\链队.c(217): warning C4098: “ClearListQueue”:“void”函数返回值
+d:\学习demo\数据结构\代码\数据结构\队列\链队.c(77): warning C4715: “IniteListQueue”: 不是所有的控件路径都返回值
+  队列.vcxproj -> D:\学习Demo\数据结构\代码\数据结构\Debug\队列.exe

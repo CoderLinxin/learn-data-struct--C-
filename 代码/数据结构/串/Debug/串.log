@@ -1,0 +1,20 @@
+﻿  顺序串.c
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(88): warning C4013: “strerror”未定义；假设外部返回 int
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(88): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(110): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(219): warning C4028: 形参 2 与声明不同
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(273): warning C4013: “pContainer”未定义；假设外部返回 int
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(153): warning C4716: “StrLength”: 必须返回一个值
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(143): warning C4716: “StrCompare”: 必须返回一个值
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(163): warning C4716: “Concat”: 必须返回一个值
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(130): warning C4716: “StrAssign”: 必须返回一个值
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(186): warning C4716: “StrCopy”: 必须返回一个值
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(175): warning C4716: “SubString”: 必须返回一个值
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(206): warning C4716: “ClearString”: 必须返回一个值
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(234): warning C4716: “Replace”: 必须返回一个值
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(196): warning C4716: “StrEmpty”: 必须返回一个值
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(245): warning C4716: “StrInsert”: 必须返回一个值
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(257): warning C4716: “StrDelete”: 必须返回一个值
+d:\学习demo\数据结构\代码\数据结构\串\顺序串.c(267): warning C4716: “DestroyString”: 必须返回一个值
+顺序串.obj : error LNK2019: 无法解析的外部符号 _pContainer，该符号在函数 _main 中被引用
+D:\学习Demo\数据结构\代码\数据结构\Debug\串.exe : fatal error LNK1120: 1 个无法解析的外部命令

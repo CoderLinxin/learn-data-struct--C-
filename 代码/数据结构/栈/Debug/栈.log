@@ -1,0 +1,4 @@
+﻿  链栈.c
+d:\学习demo\数据结构\代码\数据结构\栈\链栈.c(63): warning C4098: “TravelChainStack”:“void”函数返回值
+d:\学习demo\数据结构\代码\数据结构\栈\链栈.c(131): warning C4098: “PopChainStack”:“void”函数返回值
+  栈.vcxproj -> D:\学习Demo\数据结构\代码\数据结构\Debug\栈.exe

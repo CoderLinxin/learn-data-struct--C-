@@ -1,0 +1,5 @@
+﻿  无向网的邻接表创建.c
+d:\学习demo\数据结构\代码\数据结构\图\无向网的邻接表创建.c(189): warning C4033: “IniteQueue”必须返回值
+d:\学习demo\数据结构\代码\数据结构\图\无向网的邻接表创建.c(197): warning C4715: “IniteQueue”: 不是所有的控件路径都返回值
+d:\学习demo\数据结构\代码\数据结构\图\无向网的邻接表创建.c(59): warning C4715: “VertexLocate”: 不是所有的控件路径都返回值
+  图.vcxproj -> D:\学习Demo\数据结构\代码\数据结构\Debug\图.exe
