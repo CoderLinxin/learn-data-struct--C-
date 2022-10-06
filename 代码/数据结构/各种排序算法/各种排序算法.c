@@ -331,7 +331,7 @@ void HalfInsertSort(List* pList)
 
 int main()
 {
-    
+
 	List list;
 	list.records[1].key = 15;
 	list.records[2].key = 5;
@@ -349,11 +349,12 @@ int main()
 	//HalfInsertSort(&list);//二分插入排序
 	//ShellSort(&list, increments, length);//希尔排序
 	//BubbleSort(&list);//冒泡排序
-	//QuickSort(&list, 1, 10);//快速排序
+	QuickSort(&list, 1, 10);//快速排序
 	//SimpleSelectSort(&list);
+	//HeapSort(&list);//堆排序
 
-	HeapSort(&list);//堆排序
-
+	for (int i = 1;i <= list.length;i++)
+		printf("%d ", list.records[i].key);
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
